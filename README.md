@@ -102,7 +102,7 @@ Detection-Opportunities.md
 
 Available inside:
 
-Screenshots/
+REPORT
 
 ---
 
